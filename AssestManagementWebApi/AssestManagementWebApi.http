@@ -1,0 +1,6 @@
+@AssestManagementWebApi_HostAddress = http://localhost:5038
+
+GET {{AssestManagementWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
